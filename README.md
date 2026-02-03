@@ -30,7 +30,7 @@ The research followed a structured pipeline: **Data Preparation → Parent-Child
 3.  **Predictive Factors**: Machine learning analysis identified parental income, household expenditure patterns, and educational expectations as the most critical predictors of long-term skill development.
 
 ## 👥 Contributors & Mentorship
-* **Omar Talib**
+* **Omar Bin Talib**
 * **Aws Alsaedi**
 * **Mentor**: Professor Michael Boutros (University of Toronto).
 
