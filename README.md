@@ -34,5 +34,5 @@ The research followed a structured pipeline: **Data Preparation → Parent-Child
 * **Aws Alsaedi**
 * **Mentor**: Professor Michael Boutros (University of Toronto).
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 This research was supported by the **Data Sciences Institute at the University of Toronto** and the **KAUST Academy**. Special thanks to the PSID and CDS teams for providing the essential data for this study.
